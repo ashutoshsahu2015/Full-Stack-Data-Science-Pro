@@ -1,4 +1,4 @@
-# Problem Statement: 
+# Problem Statement: Implement notifications in a Flask app using websockets to notify users of updates.
 
 # Importing the libraries
 from flask import Flask, render_template,redirect
